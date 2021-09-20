@@ -15,6 +15,7 @@ below are some of the screenshots of the project.
 ![image](https://user-images.githubusercontent.com/16570371/133951479-cba7c573-a197-4e3e-bd0e-f6ebd4852110.png)
 
 
-Clicking on the blogs we are navigated to new page with a bigger picture from blog and description.
+### Clicking on the blogs we are navigated to new page with a bigger picture from blog and description.
+![image](https://user-images.githubusercontent.com/16570371/133951577-c024436a-440e-4a89-bd40-e8b403214cc8.png)
 ![image](https://user-images.githubusercontent.com/16570371/133951461-bf55cec0-abd7-4523-ad32-19b9b058cdb7.png)
 ![image](https://user-images.githubusercontent.com/16570371/133951509-7568d964-cc1c-4400-af0f-c8adbbe025e5.png)
